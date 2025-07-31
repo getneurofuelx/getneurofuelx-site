@@ -4,6 +4,8 @@ h1
 
 body 
 { background-image: url("GetNeuroFuelX.JPEG");
- background-color: #FFFFFF;
- background-size: 75%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
 }

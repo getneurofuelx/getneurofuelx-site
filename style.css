@@ -14,6 +14,7 @@ body
 { body
   { background-image: url("GetNeuroFuelX.JPEG");
    min-height: 100vh;
+   max-width: 100vh;
    background-position: center center;
   }
 }

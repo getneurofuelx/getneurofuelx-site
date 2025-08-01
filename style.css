@@ -16,6 +16,6 @@ body
   { background-image: url("mobile.png");
    background-size: 100vw 100vh;
    background-position: center center;
-   background-size: contain;
+   background-size: cover;
   }
 }

@@ -13,6 +13,6 @@ body
  @media only screen and (max-width: 768px)
 { body
   { background-image: url("GetNeuroFuelX.JPEG");
-   background-size: 90%;
+   background-size: cover;
   }
 }
